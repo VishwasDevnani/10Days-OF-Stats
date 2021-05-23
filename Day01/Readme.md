@@ -1,1 +1,7 @@
+# QUARTILES
 
+
+# Standard Deviation
+
+
+# IQR
